@@ -1,0 +1,1 @@
+"""Chemistry literature daily app."""
